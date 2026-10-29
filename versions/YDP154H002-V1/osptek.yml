@@ -1,0 +1,10 @@
+id: YDP154H002-V1
+category: displays
+size: "1.54"
+panel: tft
+resolution: 240x240
+interface: [spi]
+driver: ST7789V2
+touch: null
+outline: 31.52 x 33.72 mm
+active_area: 27.72 x 27.7 mm
